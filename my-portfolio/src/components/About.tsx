@@ -20,7 +20,7 @@ const About = () => {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src={portfolioData.owner.image} 
+                src={portfolioData.owner.aboutImage} 
                 alt="Adebanwo Mercy Temitope" 
                 className="w-full h-auto object-cover transform hover:scale-105 transition duration-700"
               />

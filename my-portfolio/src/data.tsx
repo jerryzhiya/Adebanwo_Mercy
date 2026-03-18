@@ -4,7 +4,8 @@ export const portfolioData = {
     name: "Adebanwo Mercy Temitope",
     title: "Executive Assistant & Operations Manager",
     bio: "I bring order to chaos. With over 8 years of experience supporting C-level executives, I specialize in complex calendar management, travel logistics, and strategic operations. I don't just manage time; I optimize it.",
-    image: "/Adebanwo_Mercy/Mercy.png"
+    image: "/Adebanwo_Mercy/Mercy.png",
+    aboutImage: "/Adebanwo_Mercy/about-mercy.jpeg"
   },
   skills: [
     "Calendar Management", "Travel Logistics", "Event Planning", 
@@ -14,24 +15,30 @@ export const portfolioData = {
   testimonials: [
     {
       id: 1,
-      text: "Alexandra is the backbone of our company. Her ability to anticipate needs before I even realize them is unmatched. She transformed my chaotic schedule into a streamlined machine.",
-      name: "James Carter",
-      role: "CEO, TechFlow Inc.",
-      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+      text: "Mercy consistently demonstrates a proactive approach to her work. She is always ahead of the game, anticipating needs and taking initiative without waiting for direction.",
+      name: "Reem Disu",
+      role: "CEO, Disu Foundation",
+      image: "/Adebanwo_Mercy/Reem.jpg"
     },
     {
       id: 2,
-      text: "I hired Alexandra for a 3-month contract and she became indispensable. Her attention to detail in organizing our annual gala was flawless. Highly recommended.",
-      name: "Sarah Jenkins",
-      role: "Director of Operations, Global Logistics",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+      text: "Mercy is a fast learner who takes initiative and anticipates tasks effectively. She is intentional about seeking clarity and ensures that every detail is handled to a high standard.”I hired Alexandra for a 3-month contract and she became indispensable. Her attention to detail in organizing our annual gala was flawless. Highly recommended.",
+      name: "Rose Cruz",
+      role: "CEO-Deputy, Disu Foundation",
+      image: "/Adebanwo_Mercy/Rose.png"
     },
     {
       id: 3,
-      text: "Professional, discreet, and incredibly efficient. Alexandra handles high-pressure situations with a grace that is rare to find. She is a true asset.",
-      name: "Michael Ross",
-      role: "Managing Partner, Ross & Associates",
-      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+      text: "Mercy brings a high level of structure and foresight to her role. She is dependable, detail-oriented, and consistently ensures that operations run smoothly through her strong organizational and communication skills",
+      name: "Kennedy Adetayo",
+      role: "Country Manager, & Writer.",
+      image: "/Adebanwo_Mercy/Kennedy.JPG"
+    },
+    {
+      id: 4,
+      text: "Mercy is highly organized and dependable. She consistently keeps me on track with timely reminders and follow-ups, while independently managing client communications and dealership partners with professionalism and efficiency.",
+      name: "Nosa King Smart",
+      image: "/Adebanwo_Mercy/Nosa.PNG"
     }
   ]
 };

@@ -30,13 +30,13 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-semibold mb-4">Connect</h4>
             <div className="flex space-x-4">
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-400 transition" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/mercy-adebanwo-8a488a34a" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-400 transition" aria-label="LinkedIn">
                 <Linkedin size={24} />
               </a>
               <a href="mailto:mercyadebanwo001@gmail.com" className="hover:text-indigo-400 transition" aria-label="Email">
                 <Mail size={24} />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-400 transition" aria-label="Twitter">
+              <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-400 transition" aria-label="Twitter">
                 <Twitter size={24} />
               </a>
             </div>
