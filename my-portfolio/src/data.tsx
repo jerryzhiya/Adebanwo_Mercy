@@ -4,7 +4,7 @@ export const portfolioData = {
     name: "Adebanwo Mercy Temitope",
     title: "Executive Assistant & Operations Manager",
     bio: "I bring order to chaos. With over 8 years of experience supporting C-level executives, I specialize in complex calendar management, travel logistics, and strategic operations. I don't just manage time; I optimize it.",
-    image: "/Mercy.png"
+    image: "/Adebanwo_Mercy/Mercy.png"
   },
   skills: [
     "Calendar Management", "Travel Logistics", "Event Planning", 
