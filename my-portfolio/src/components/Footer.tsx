@@ -46,7 +46,7 @@ const Footer = () => {
         {/* Copyright Bar */}
         <div className="border-t border-slate-800 pt-8 text-center text-xs">
           <p>&copy; {new Date().getFullYear()} Adebanwo Mercy Temitope. All rights reserved.</p>
-          <p className="mt-2 text-slate-600">Designed by GlitterTech</p>
+          <p className="mt-2 text-slate-600">Designed by Jerry Zhiya</p>
         </div>
       </div>
     </footer>
