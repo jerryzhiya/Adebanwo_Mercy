@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// Detect environment: Vercel sets process.env.VERCEL = "1"
 export default defineConfig({
   plugins: [react()],
-  base: '/Adebanwo_Mercy/'
+  base: process.env.VERCEL ? './' : '/Adebanwo_Mercy/',
 })
